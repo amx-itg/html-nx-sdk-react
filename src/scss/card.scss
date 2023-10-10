@@ -1,0 +1,11 @@
+.card {
+  border: var(--bs-card-border-width) dotted $dark;
+  .card-title {
+    margin-bottom: 16px;
+    font-size: 16px;
+  }
+}
+
+.card-body-h-100 {
+  height: calc(100% - 36px) !important; // 36px is padding;
+}

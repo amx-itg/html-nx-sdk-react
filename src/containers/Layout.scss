@@ -1,0 +1,46 @@
+@import 'src/scss/variables.scss';
+
+.app-hearder {
+  padding: 0;
+  border-bottom: none !important;
+  background-color: $secondary;
+}
+.app-container {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.nav {
+  .nav-item {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    .nav-link {
+      color: $white !important;
+      border-bottom: 3px solid transparent;
+      text-transform: uppercase;
+      font-weight: 600;
+      padding: 25px 10px;
+
+      @media screen and (max-width : 767px) and (min-width: 320px){
+        padding: 25px 5px;
+        font-size: 14px;
+      }
+      &:focus,
+      &:active,
+      &:hover,
+      &.active {
+        color: $white;
+        border-color: $white;
+      }
+    }
+
+    .btn-logs {
+      > i {
+        font-size: 25px;
+        color: $white;
+      }
+    }
+  }
+}

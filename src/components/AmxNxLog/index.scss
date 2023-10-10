@@ -1,0 +1,6 @@
+.app-log-list{
+    &:not(&:last-child){
+        border-bottom: 1px solid #EEE;
+    }
+   
+}

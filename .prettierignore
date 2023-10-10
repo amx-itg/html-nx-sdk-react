@@ -1,0 +1,11 @@
+node_modules
+coverage
+build
+.idea/
+public
+.babelrc
+buildspec.yml
+config
+start.sh
+.github
+.husky
