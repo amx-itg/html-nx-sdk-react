@@ -1,5 +1,5 @@
 {
-  "url": "teams.doesntexist.org:8080/web/ui/41100/ws",
+  "url": "172.20.254.185:8080/web/ui/41100/ws",
   "key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArItvIezQLlfv2CC0Yt2WqrOT4TqZSsjFl/W/XAgsHYuwnCpa1Jcsy0VSYg9cigy7oM/ujbsL/tgiApTVmRVmRvT0b3jJY4LripoitvEDFlCpB+kfdZsLCW9w5vyZS6LUY4oLRRamc3K5qr70Zgbsav70AkF2w/hKy0AHXA21Eys5yQu59JsIQpGqYzrOp/VATCEzoiFZUFRR6QyFxd1xftGCuPybhRHrAuE69rRAiK3XYtWOhuZ7vnYCa+Rmz60T8lzdPhVVSXdb8NAbEOAVDuIGI32oSxXhyeLKtZPFZ35Ij0cH5QqjYhjal6Jfnna5K1Waxyz31lcdvpUSuS5ypQIDAQAB\n-----END PUBLIC KEY-----",
   "username": "vaughn",
   "password": "password"
